@@ -4,8 +4,44 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ea380dbcba8e8091a9bd3e9578a75cd0",
+    "content-hash": "d306b67e06d7ddd984424ea254a9259a",
     "packages": [
+        {
+            "name": "danilocgsilva/projects_manager",
+            "version": "0.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/danilocgsilva/projects_manager.git",
+                "reference": "3a4baf8496f997fc80bd584459009898e2c56983"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/danilocgsilva/projects_manager/zipball/3a4baf8496f997fc80bd584459009898e2c56983",
+                "reference": "3a4baf8496f997fc80bd584459009898e2c56983",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Danilocgsilva\\ProjectsManager\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Danilo Silva",
+                    "email": "contact@danilocgsilva.me"
+                }
+            ],
+            "support": {
+                "issues": "https://github.com/danilocgsilva/projects_manager/issues",
+                "source": "https://github.com/danilocgsilva/projects_manager/tree/0.1.0"
+            },
+            "time": "2024-08-29T10:50:37+00:00"
+        },
         {
             "name": "laravel/serializable-closure",
             "version": "v1.3.4",
