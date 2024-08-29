@@ -1,0 +1,17 @@
+{
+    "name": "danilocgsilva/projects_manager_commands",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Danilocgsilva\\ProjectsManagerCommands\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Danilo Silva",
+            "email": "contact@danilocgsilva.me"
+        }
+    ],
+    "require": {}
+}
