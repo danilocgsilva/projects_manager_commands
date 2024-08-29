@@ -13,5 +13,8 @@
             "email": "contact@danilocgsilva.me"
         }
     ],
-    "require": {}
+    "require": {
+        "php-di/php-di": "^7.0",
+        "symfony/console": "^7.1"
+    }
 }
